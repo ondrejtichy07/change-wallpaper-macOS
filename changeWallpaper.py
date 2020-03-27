@@ -26,6 +26,6 @@ if __name__ == "__main__":
             img_num += 1
         else:
             img_num = 0
-        time.sleep(10)
+        time.sleep(86400)
 
 
